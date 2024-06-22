@@ -165,3 +165,13 @@ public class PurchaseOrderBOImpl implements PurchaseOrderBO {
         return null;
     }
 }
+//echo "# Layered-Architecture-POS" >> README.md
+//        git init
+//        git add README.md
+//        git commit -m "first commit"
+//        git branch -M main
+//        git remote add origin https://github.com/Shimara-Appuhami/Layered-Architecture-POS.git
+//        git push -u origin main
+//
+//
+//        https://github.com/Shimara-Appuhami/Layered-Architecture-POS.git
